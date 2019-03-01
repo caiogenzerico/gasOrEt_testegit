@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">气体等</string>
+    <string name="valGas_TextView">R$5.00</string>
+    <string name="valEt_textView">R$5.00</string>
+    <string name="gasTextView">汽油</string>
+    <string name="etTextView">乙醇</string>
+    <string name="betterTextView">它最好用</string>
+</resources>

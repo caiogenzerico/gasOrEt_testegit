@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textView_padding">12dp</dimen>
+    <dimen name="seekBar_height">40dp</dimen>
+    <dimen name="combElevation">4dp</dimen>
+    <dimen name="CombImageView">200dp</dimen>
+</resources>

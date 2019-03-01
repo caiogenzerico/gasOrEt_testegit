@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gas Ou Et</string>
+    <string name="valGas_TextView">R$5.00</string>
+    <string name="valEt_textView">R$5.00</string>
+    <string name="gasTextView">gasolina</string>
+    <string name="etTextView">Etanol</string>
+    <string name="betterTextView">É melhor usar...</string>
+
+</resources>
